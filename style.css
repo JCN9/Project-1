@@ -92,7 +92,7 @@ button {
 .middle {
     display: flex;
     flex-direction: column;
-    flex: 2;
+    gap: 70px;
 }
 
 .no2 {
@@ -103,6 +103,7 @@ button {
 .middle1 {
     display: flex;
     flex-direction: column;
+    row-gap: 20px;
 }
 
 .middle1a {
@@ -164,6 +165,7 @@ button {
     justify-content: space-around;
     align-items: center;
     width: 1000px;
+    margin-bottom: 70px;
 }
 
 #m3a {
@@ -195,4 +197,5 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 70px;
 }
